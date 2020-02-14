@@ -1,12 +1,16 @@
 @extends('layouts.main')
 
+@section('title')
+    @parent Тест 1
+@endsection
+
 @section('menu')
-    @include('menu.main')
+    @include('menu.admin')
 @endsection
 
 @section('content')
     <div class="wrapper">
-        <h1>Добро пожаловать!</h1>
+    <h2>test1</h2>
     </div>
 @endsection
 
