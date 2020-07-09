@@ -1,2 +1,2 @@
 # Laravel
-Laravel-tests
+Полигон для тестов фреймворка Laravel
